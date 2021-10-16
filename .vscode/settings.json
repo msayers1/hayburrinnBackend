@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/d0721f50-6923-4833-97aa-c3fe3e7be1b2/resourceGroups/HayburrInn/providers/Microsoft.Web/sites/HayBurrInnApp",
+    "appService.deploySubpath": "."
+}
